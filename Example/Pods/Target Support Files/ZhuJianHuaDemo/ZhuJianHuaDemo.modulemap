@@ -1,0 +1,6 @@
+framework module ZhuJianHuaDemo {
+  umbrella header "ZhuJianHuaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

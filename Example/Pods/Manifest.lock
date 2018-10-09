@@ -1,0 +1,16 @@
+PODS:
+  - ZhuJianHuaDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZhuJianHuaDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZhuJianHuaDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZhuJianHuaDemo: 7a938d56e63bd7ab68cd7635e0ab267a1a3029dc
+
+PODFILE CHECKSUM: d2a17eabdf872cc770d5500ba28a377b6012a9dd
+
+COCOAPODS: 1.5.3
