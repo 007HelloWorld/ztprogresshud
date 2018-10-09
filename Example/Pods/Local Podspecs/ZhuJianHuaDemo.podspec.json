@@ -1,9 +1,9 @@
 {
   "name": "ZhuJianHuaDemo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of ZhuJianHuaDemo.",
   "description": "TODO: Add long description of the pod here.\n组件化的一个demo",
-  "homepage": "https://github.com/007HelloWorld/ztprogresshud",
+  "homepage": "https://github.com/007HelloWorld/ZhuJianHuaDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "pjw": "177563971@163.com"
   },
   "source": {
-    "git": "https://github.com/007HelloWorld/ztprogresshud.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/007HelloWorld/ZhuJianHuaDemo.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
